@@ -6,7 +6,8 @@ This is an FT230X-based USB-UART adapter with built-in level shifting. This
 allows talking to targets using different I/O voltage levels (1.8V to 5V), but
 it's especially useful to avoid backpowering a target through the TX line.
 
-This board can be assembled by JLCPCB PCBA for about $5 each.
+This board can be assembled by JLCPCB PCBA for about $5 each, see the `fab/`
+directory for Gerber/BOM/CPL data.
 
 ## Usage
 
